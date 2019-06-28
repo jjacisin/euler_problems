@@ -1,4 +1,4 @@
-## EULER PROJECT - Python Math/Coding Challenges
+# EULER PROJECT - Math/Coding Challenges (Python)
 
 Link: https://projecteuler.net/archives
 
